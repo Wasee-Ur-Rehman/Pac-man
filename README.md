@@ -1,2 +1,0 @@
-# Pac-man
-PAC MAN WITH SFML
